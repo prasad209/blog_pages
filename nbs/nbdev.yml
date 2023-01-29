@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "blog_pages"
+  site-url: "https://prasad209.github.io/blog_pages"
+  description: "blog creation"
+  repo-branch: main
+  repo-url: "https://github.com/prasad209/blog_pages"
